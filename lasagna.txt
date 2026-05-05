@@ -1,0 +1,63 @@
+/* # Classic Lasagne Recipe
+
+A delicious homemade lasagne recipe that serves 6 people.
+
+## Ingredients
+
+### Meat Sauce
+- 500g ground beef
+- 1 onion, diced
+- 3 garlic cloves, minced
+- 400g canned tomatoes
+- 2 tbsp tomato paste
+- 1 tsp dried oregano
+- 1 tsp dried basil
+- Salt and pepper to taste
+
+### Bechamel Sauce
+- 50g butter
+- 50g flour
+- 500ml milk
+- 1 pinch of nutmeg
+- Salt and pepper to taste
+
+### Assembly
+- 12 lasagne sheets
+- 200g mozzarella, shredded
+- 50g parmesan, grated
+
+## Instructions
+
+### 1. Make the Meat Sauce
+1. Heat oil in a pan and saute onion and garlic until soft
+2. Add ground beef and cook until browned
+3. Stir in canned tomatoes, tomato paste, oregano and basil
+4. Simmer for 20 minutes, season with salt and pepper
+
+### 2. Make the Bechamel Sauce
+1. Melt butter in a saucepan over medium heat
+2. Stir in flour and cook for 1 minute
+3. Gradually whisk in milk until smooth
+4. Season with nutmeg, salt and pepper
+5. Stir until thickened
+
+### 3. Assemble the Lasagne
+1. Preheat oven to 180C (350F)
+2. Spread a layer of meat sauce on the bottom of a baking dish
+3. Add a layer of lasagne sheets
+4. Spread bechamel sauce over the sheets
+5. Repeat layers until ingredients are used up
+6. Top with mozzarella and parmesan
+
+### 4. Bake
+1. Cover with foil and bake for 30 minutes
+2. Remove foil and bake for another 15 minutes until golden
+3. Let rest for 10 minutes before serving
+
+## Tips
+- Make the meat sauce a day ahead for better flavor
+- Use fresh lasagne sheets for a softer texture
+- Let it rest before cutting so it holds its shape
+
+## License
+Feel free to fork and improve this recipe! */
