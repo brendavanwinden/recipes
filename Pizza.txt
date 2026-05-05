@@ -1,0 +1,77 @@
+# Classic Homemade Pizza Recipe
+
+A delicious homemade pizza that serves 4 people.
+
+## Ingredients
+
+### Pizza Dough
+- 500g bread flour
+- 7g instant yeast (1 packet)
+- 1 tsp sugar
+- 1 tsp salt
+- 325ml warm water
+- 2 tbsp olive oil
+
+### Tomato Sauce
+- 400g canned crushed tomatoes
+- 2 garlic cloves, minced
+- 1 tsp dried oregano
+- 1 tsp dried basil
+- 1 tsp sugar
+- Salt and pepper to taste
+- 1 tbsp olive oil
+
+### Toppings (Classic Margherita)
+- 200g mozzarella, sliced or shredded
+- Fresh basil leaves
+- 2 tbsp olive oil
+- Salt and pepper to taste
+
+### Optional Extra Toppings
+- Pepperoni
+- Mushrooms, sliced
+- Bell peppers, sliced
+- Red onion, thinly sliced
+- Black olives
+- Parmesan, grated
+
+## Instructions
+
+### 1. Make the Dough
+1. Mix warm water, sugar and yeast in a bowl and let sit for 5 minutes until frothy
+2. In a large bowl, combine flour and salt
+3. Add the yeast mixture and olive oil to the flour
+4. Mix until a dough forms, then knead for 8-10 minutes until smooth and elastic
+5. Place in a lightly oiled bowl, cover with a cloth
+6. Let rise in a warm place for 1 hour until doubled in size
+
+### 2. Make the Tomato Sauce
+1. Heat olive oil in a saucepan over medium heat
+2. Saute garlic for 1 minute until fragrant
+3. Add crushed tomatoes, oregano, basil and sugar
+4. Simmer for 15 minutes, stirring occasionally
+5. Season with salt and pepper and set aside
+
+### 3. Assemble the Pizza
+1. Preheat oven to 250C (480F) — as hot as it will go
+2. Punch down the risen dough and divide into 2 balls
+3. On a floured surface, stretch or roll each ball into a round base
+4. Place on a lightly oiled baking tray or pizza stone
+5. Spread tomato sauce evenly over the base, leaving a border for the crust
+6. Add mozzarella and any extra toppings
+7. Drizzle with olive oil and season with salt and pepper
+
+### 4. Bake
+1. Bake for 10-12 minutes until the crust is golden and cheese is bubbling
+2. Remove from oven and top with fresh basil leaves
+3. Slice and serve immediately
+
+## Tips
+- The hotter the oven, the better the pizza — preheat for at least 30 minutes
+- A pizza stone gives you a crispier base
+- Less is more with toppings — don't overload or the base will go soggy
+- Let the dough rest if it keeps springing back when you stretch it
+- Leftover dough can be frozen for next time
+
+## License
+Feel free to fork and improve this recipe!
