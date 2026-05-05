@@ -1,4 +1,5 @@
 # Classic Homemade Pizza Recipe
+Hmm not sure if this tastes great
 
 A delicious homemade pizza that serves 4 people.
 
@@ -35,7 +36,7 @@ A delicious homemade pizza that serves 4 people.
 - Black olives
 - Parmesan, grated
 
-## Instructions
+Instructions
 
 ### 1. Make the Dough
 1. Mix warm water, sugar and yeast in a bowl and let sit for 5 minutes until frothy
