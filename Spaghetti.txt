@@ -1,0 +1,62 @@
+# Classic Spaghetti Bolognese Recipe
+
+A delicious homemade spaghetti bolognese that serves 4 people.
+
+## Ingredients
+
+### Bolognese Sauce
+- 500g ground beef
+- 1 onion, diced
+- 3 garlic cloves, minced
+- 400g canned tomatoes
+- 2 tbsp tomato paste
+- 1 carrot, finely diced
+- 1 celery stalk, finely diced
+- 150ml red wine
+- 1 tsp dried oregano
+- 1 tsp dried basil
+- Salt and pepper to taste
+- 2 tbsp olive oil
+
+### Pasta
+- 400g spaghetti
+- 1 tbsp salt (for the water)
+
+### To Serve
+- 50g parmesan, grated
+- Fresh basil leaves
+- Black pepper to taste
+
+## Instructions
+
+### 1. Make the Bolognese Sauce
+1. Heat olive oil in a large pan over medium heat
+2. Saute onion, carrot and celery until soft (about 5 minutes)
+3. Add garlic and cook for 1 more minute
+4. Add ground beef and cook until browned
+5. Pour in red wine and let it simmer for 2 minutes
+6. Stir in canned tomatoes, tomato paste, oregano and basil
+7. Simmer on low heat for 30 minutes, stirring occasionally
+8. Season with salt and pepper
+
+### 2. Cook the Spaghetti
+1. Bring a large pot of water to a boil
+2. Add 1 tbsp of salt to the water
+3. Add spaghetti and cook according to package instructions (usually 8-10 minutes)
+4. Reserve a cup of pasta water before draining
+5. Drain the spaghetti
+
+### 3. Combine and Serve
+1. Add the drained spaghetti to the sauce and toss to combine
+2. Add a splash of pasta water if the sauce is too thick
+3. Serve in bowls topped with grated parmesan and fresh basil
+4. Finish with a crack of black pepper
+
+## Tips
+- The longer you simmer the sauce, the richer the flavor
+- Always salt your pasta water — it should taste like the sea
+- Save pasta water before draining, it helps bind the sauce to the pasta
+- Use a good quality red wine you would actually drink
+
+## License
+Feel free to fork and improve this recipe!
